@@ -1,0 +1,13 @@
+.navDashDh{
+    text-decoration: none;
+    color: #4e73df;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+    min-width: 13rem!important; 
+    
+}
+.fa-fw {
+    padding-left: .2rem;
+}
